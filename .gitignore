@@ -1,4 +1,4 @@
-maze.png
-test1.txt
-test2.txt
+*.png
+*.txt
+*.txt
 generator/
